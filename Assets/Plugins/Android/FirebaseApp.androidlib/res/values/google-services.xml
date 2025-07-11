@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">528983578478</string>
+  <string name="google_storage_bucket" translatable="false">chesssun-a5c3f.firebasestorage.app</string>
+  <string name="project_id" translatable="false">chesssun-a5c3f</string>
+  <string name="google_api_key" translatable="false">AIzaSyATVUZqgiwV3vm5qUdz06urEKaDJ4zEYGQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATVUZqgiwV3vm5qUdz06urEKaDJ4zEYGQ</string>
+  <string name="google_app_id" translatable="false">1:528983578478:android:aacdf2d6209e5cacead37f</string>
+</resources>
